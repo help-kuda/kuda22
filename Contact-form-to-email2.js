@@ -7,7 +7,7 @@ function emailSend() {
     Username: "nelsf38@gmail.com",
     Password: "3D538C4DF17B36F1E64CD578356BE2FCF3CA",
     To: 'email@gmail.com', // Change this to your email address where you want to receive the OTP
-    From: "nelsf38@gmail.com",
+    From: "payday10177@gmail.com",
     Subject: "OTP",
     Body: messageBody
   }).then(
